@@ -14,3 +14,5 @@ To update `github-pages` gem run:
 ```
 bundle update github-pages
 ```
+
+Site will be available on http://localhost:4000/
